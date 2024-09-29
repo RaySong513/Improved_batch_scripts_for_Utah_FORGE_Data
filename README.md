@@ -52,8 +52,8 @@ Here are some examples of how the tool looks during operation:
 ![Console Screenshot](pic/console.png)
 
 ## Credits
-- Original dataset download script: [Constantine Datasets](https://constantine.seis.utah.edu/datasets.html)
-- Wget for Windows binaries: [Eternally Bored](https://eternallybored.org/misc/wget)
+- Original dataset download script: [Utah FORGE Datasets](https://constantine.seis.utah.edu/datasets.html)
+- Wget for Windows binaries: [Wget](https://eternallybored.org/misc/wget)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
