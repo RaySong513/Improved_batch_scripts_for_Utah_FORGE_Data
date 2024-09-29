@@ -1,4 +1,4 @@
-# Windows-Compatible Data Download Tool
+# Windows-Compatible Utah_FORGE Data Download Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
